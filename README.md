@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/scripter-ryu/github-readme-stats -->
+<!-- GitHub Stats: https://github.com/SeraaDolyviaaAprillia/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
